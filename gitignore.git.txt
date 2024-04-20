@@ -1,0 +1,13 @@
+# Python-related
+*.pyc
+__pycache__/
+.env
+
+# Flask-related
+instance/
+
+# Node.js-related
+node_modules/
+
+# Vue.js-related
+dist/
