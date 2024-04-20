@@ -1,5 +1,7 @@
 Application Description:
 Our application aims to create a user-friendly e-commerce platform exclusively for men's shirts. Users will be able to browse through a diverse collection of shirts, filter their options based on various criteria, and make purchases securely. Additionally, the platform will provide features for user authentication, allowing customers to create accounts, log in, and manage their profiles.
+
+
 Data Storage:
 In our application, data will primarily be stored in an SQLite database. This database will contain information about users, including usernames, passwords (encrypted), and profile details. Moreover, product-related data such as shirt details (e.g., name, description, price, size, color) and order information will also be stored in the database.
 
