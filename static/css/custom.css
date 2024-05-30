@@ -1,0 +1,115 @@
+.card:hover {
+    border-color: #7FDBFF; 
+    box-shadow: 0 8px 6px -6px #7FDBFF; 
+}
+
+.card {
+    margin-bottom: 20px; 
+    background-color: #cec9c4; 
+    border: 2px solid #cec9c4; 
+    border-radius: 8px; 
+    transition: transform 0.3s ease-in-out; /* Smooth transform */
+}
+
+.card:hover {
+    transform: scale(1.05); /* Slight scale on hover */
+}
+
+.price {
+    color: #001f3f; 
+    font-weight: 600; 
+    font-size: 1.2rem; 
+}
+
+.price:before {
+    content: 'Kr'; 
+}
+
+.shirt {
+    margin-bottom: 15px;
+    width: 100%; 
+    height: auto; 
+    transition: opacity 0.3s ease-in-out; 
+}
+
+.shirt:hover {
+    opacity: 0.8; 
+}
+
+.stepper-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background-color: #DDDDDD; 
+    border-radius: 5px; 
+}
+
+header {
+    padding: 20px 0;
+    background-color: #0074D9; 
+    color: white;
+}
+
+.shirtCart {
+    width: 50px; 
+    height: auto; 
+}
+
+.add,
+.checkout {
+    background-color: #3D9970; 
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px; 
+    border: none;
+}
+
+.add:hover,
+.checkout:hover {
+    background-color: #2ECC40; 
+}
+
+.modal-header {
+    background-color: #AAAAAA; 
+    color: white;
+    padding: 20px;
+}
+
+.counter {
+    font-size: 0.75rem;
+    background-color: #1a180e; 
+    padding: 2px 5px;
+    border-radius: 10px; 
+}
+
+.increment,
+.decrement {
+    background-color: #FF4136; 
+    color: white;
+    margin: 0 5px;
+}
+
+.increment:hover,
+.decrement:hover {
+    background-color: #85144b; 
+}
+
+.quantity {
+    flex: 1;
+    text-align: center;
+    background-color: #F7F7F7;
+    border: 2px solid #AAAAAA;
+}
+
+body {
+    margin: 0;
+    font-family: 'Calibri', 'Arial', sans-serif;
+    font-size: 1rem;
+    color: #111;
+    background-color: #EFEFEF; 
+}
+
+.bg-dark {
+    background-color: #111111!important; 
+}
