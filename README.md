@@ -1,4 +1,4 @@
-# Python Flask (CHIC CLOSET) An E-Commerce Website
+# Web Development: (CHIC CLOSET) An E-Commerce Website
 
 An e-commerce platform is developed using Python Flask, HTML, JavaScript, CSS, Jinja2, SQLite, jQuery, and Bootstrap. This platform features a display gallery showcasing various clothing products, each with an accompanying image, name, price, and a concise form to add items to the shopping cart. The details of these clothing items are stored within a SQLite database and presented using Bootstrap’s card layout.
 
