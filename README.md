@@ -5,7 +5,7 @@ An e-commerce platform is developed using Python Flask, HTML, JavaScript, CSS, J
 Additionally, the website offers filtering functionality, enabling users to browse through the inventory by various categories such as Shirts, Pants, Shoes, and different price ranges. These filters are implemented using SQL queries to facilitate easy navigation through the product offerings.
 
 
-## Installation
+## Installations
 
 
 pip install session
